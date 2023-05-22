@@ -1,0 +1,110 @@
+﻿<html><body><br><br><table border=1>
+<tr>
+<th style=background-color:HFF0000>CCP重复开通</th>
+<th style=background-color:HFF0000>工号</th>
+<th style=background-color:HFF0000>姓名</th>
+<th style=background-color:HFF0000>职级</th>
+<th style=background-color:HFF0000>TMQ部门编码</th>
+<th style=background-color:HFF0000>CCP区域标识</th>
+<th style=background-color:HFF0000>部门长描述</th>
+<th style=background-color:HFF0000>officer_cd</th>
+<th style=background-color:HFF0000>直属主管姓名</th>
+<th style=background-color:HFF0000>直属主管邮箱</th>
+<th style=background-color:HFF0000>CCP/SSO/I通宝初始密码</th>
+<th style=background-color:HFF0000>PS部门编号</th>
+<th style=background-color:HFF0000>公司属性</th>
+<th style=background-color:HFF0000>CCP权限状态</th>
+<th style=background-color:HFF0000>TMQ权限状态</th>
+<th style=background-color:HFF0000>I通宝权限状态</th>
+<th style=background-color:HFF0000>CCP绑定TMQ状态</th>
+<th style=background-color:HFF0000>CCP绑定ServiceNow状态</th>
+<th style=background-color:HFF0000>ICS权限状态</th>
+<th style=background-color:HFF0000>CCP绑定ICS状态</th>
+<th style=background-color:HFF0000>SCM权限状态</th>
+<th style=background-color:HFF0000>BBICS权限状态</th>
+<th style=background-color:HFF0000>CRM权限状态</th>
+<th style=background-color:HFF0000>OPS权限状态</th>
+<th style=background-color:HFF0000>CCP绑定OPS状态</th>
+<th style=background-color:HFF0000>CCP绑定SCM状态</th>
+<th style=background-color:HFF0000>CCP描述</th>
+<th style=background-color:HFF0000>TMQ描述</th>
+<th style=background-color:HFF0000>I通宝描述</th>
+<th style=background-color:HFF0000>ICS描述</th>
+<th style=background-color:HFF0000>SCM描述</th>
+<th style=background-color:HFF0000>BBICS描述</th>
+<th style=background-color:HFF0000>CRM描述</th>
+<th style=background-color:HFF0000>OPS描述</th>
+</tr>
+<tr>
+<td>是</td>
+<td>10154897</td>
+<td>孙晨鹭</td>
+<td>文员/营业员/珠宝销售顾问/店务助理/高级珠宝销售顾问</td>
+<td>20309</td>
+<td></td>
+<td>珠宝中国-商品管理部-商品3科-精致区业务管理组</td>
+<td>E</td>
+<td>廖朝汉</td>
+<td></td>
+<td>ctf@290113</td>
+<td>2012296</td>
+<td>Jelly</td>
+<td></td>
+<td></td>
+<td>开通成功</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>开通失败</td>
+<td></td>
+<td></td>
+<td>开通成功</td>
+<td>绑定成功</td>
+<td>绑定失败</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>TMQ部门不在权限配置表内</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>是</td>
+<td>10154907</td>
+<td>李俊男</td>
+<td>文员/营业员/珠宝销售顾问/店务助理/高级珠宝销售顾问</td>
+<td>20014</td>
+<td></td>
+<td>珠宝中国-品牌管理部-品牌管理科-服务管理组</td>
+<td>F</td>
+<td>贺小龙</td>
+<td></td>
+<td>ctf@410609</td>
+<td>2000047</td>
+<td>Jelly</td>
+<td></td>
+<td></td>
+<td>开通成功</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>开通失败</td>
+<td></td>
+<td></td>
+<td>无需开通</td>
+<td>无需绑定</td>
+<td>绑定失败</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>添加用户出错,可能已经添加了10154907用户</td>
+<td></td>
+<td></td>
+<td>OPS部门编码不在权限配置表内</td>
+</tr>
+</table></body></html>
